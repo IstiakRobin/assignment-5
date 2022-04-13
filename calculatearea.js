@@ -1,0 +1,1 @@
+calculateArea('s',20,20);
